@@ -1,3 +1,4 @@
+require('dotenv').config();
 const axios = require('axios');
 const fs = require('fs');
 const Mustache = require('mustache');
@@ -9,8 +10,8 @@ let DATA = {
 };
 
 // Credentials
-const UID = '';
-const SECRET = '';
+const UID = process.env.API42_UID;
+const SECRET = process.env.API42_SECRET;
 
 // Function to fetch an access token from the 42 API
 async function getAccessToken() {
