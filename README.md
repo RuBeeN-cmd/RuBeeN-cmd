@@ -20,7 +20,7 @@
   </thead>
   <tbody>
     <tr><td>🚧</td><td>malloc</td><td><img alt="Grade" src="https://img.shields.io/badge/%2F-black?style=for-the-badge"></td></tr>
-    <tr><td>🚧</td><td>nm</td><td><img alt="Grade" src="https://img.shields.io/badge/%2F-black?style=for-the-badge"></td></tr>
+    <tr><td>✅</td><td>nm</td><td><img alt="Grade" src="https://img.shields.io/badge/125-0d4500?style=for-the-badge"></td></tr>
     <tr><td>✅</td><td>ft_ls</td><td><img alt="Grade" src="https://img.shields.io/badge/106-green?style=for-the-badge"></td></tr>
     <tr><td>✅</td><td>ft_transcendence</td><td><img alt="Grade" src="https://img.shields.io/badge/100-green?style=for-the-badge"></td></tr>
     <tr><td>✅</td><td>webserv</td><td><img alt="Grade" src="https://img.shields.io/badge/125-0d4500?style=for-the-badge"></td></tr>
