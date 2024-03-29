@@ -26,8 +26,10 @@ jobs:
           key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
       - name: Install dependencies
         run: npm install
+      - name: Compile typescript
+        run: npm run build
       - name: Generate README file
-        run: node index.js
+        run: node .
         env:
           API42_UID: ${{secrets.API42_UID}}
           API42_SECRET: ${{secrets.API42_SECRET}}

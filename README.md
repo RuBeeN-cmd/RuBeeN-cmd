@@ -52,6 +52,6 @@
 <h2>Badges</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RuBeeN-cmd&show_icons=true&theme=onedark" height="150">
-  <img src="https://images.credly.com/size/680x680/images/a6e3d74d-5acb-4519-91ce-70220c9f287b/image.png" height="150">
+  <img src="assets/level11.png" height="150">
   <img src="https://badge.mediaplus.ma/black/rrollin?1337Badge=off&UM6P=off" height="150">
 </div>
