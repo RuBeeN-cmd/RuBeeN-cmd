@@ -6,8 +6,6 @@
 </div>
 <h2>Ongoing Projects</h2>
 <span>👩‍💻 I'm currently working on <a href="https://github.com/rubeen-cmd/ft_malloc">ft_malloc</a></span>
-<br />
-<span>🧪 I'm currently testing <a href="https://github.com/rubeen-cmd/ft_nm">ft_nm</a></span>
 
 <h2>Projects</h2>
 <table>
