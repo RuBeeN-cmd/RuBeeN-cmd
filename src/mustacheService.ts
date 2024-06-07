@@ -2,18 +2,22 @@ import Mustache from 'mustache';
 import fs from 'fs';
 import { User } from './user.js';
 
+interface Project {
+	name: string;
+	mark: string;
+	markColor: string;
+	status: string;
+};
+
 interface MustacheData {
-	projects: {
-		name: string;
-		mark: string;
-		markColor: string;
-		status: string;
-	}[];
+	projects: Project[];
+	onGoingProjects: Project[];
 	roundLevel: string;
 };
 
 const DefMustacheData: MustacheData = {
 	projects: [],
+	onGoingProjects: [],
 	roundLevel: ''
 };
 
@@ -55,6 +59,7 @@ export class MustacheService {
 			}
 			return mustacheProject;
 		});
+		this.data.onGoingProjects = this.data.projects.filter(project => project.mark !== '%2F');
 	}
 
 	async generateReadMe() {
