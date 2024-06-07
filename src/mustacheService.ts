@@ -59,7 +59,7 @@ export class MustacheService {
 			}
 			return mustacheProject;
 		});
-		this.data.onGoingProjects = this.data.projects.filter(project => project.mark !== '%2F');
+		this.data.onGoingProjects = this.data.projects.filter(project => project.mark === '%2F');
 	}
 
 	async generateReadMe() {
