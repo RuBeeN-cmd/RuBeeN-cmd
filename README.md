@@ -5,7 +5,6 @@
   <span>Student at 42 Angoulême</span>
 </div>
 <h2>Ongoing Projects</h2>
-<span>👩‍💻 I'm currently working on <a href="https://github.com/rubeen-cmd/ft_malloc">ft_malloc</a></span>
 
 <h2>Projects</h2>
 <table>
