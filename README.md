@@ -16,6 +16,10 @@
     </tr>
   </thead>
   <tbody>
+    <tr><td>🚧</td><td>internship I - Company Final Evaluation</td><td><img alt="Grade" src="https://img.shields.io/badge/%2F-black?style=for-the-badge"></td></tr>
+    <tr><td>🚧</td><td>internship I - Company Mid Evaluation</td><td><img alt="Grade" src="https://img.shields.io/badge/%2F-black?style=for-the-badge"></td></tr>
+    <tr><td>✅</td><td>Internship I - Duration</td><td><img alt="Grade" src="https://img.shields.io/badge/120-green?style=for-the-badge"></td></tr>
+    <tr><td>✅</td><td>internship I - Contract Upload</td><td><img alt="Grade" src="https://img.shields.io/badge/100-green?style=for-the-badge"></td></tr>
     <tr><td>🚧</td><td>Internship I</td><td><img alt="Grade" src="https://img.shields.io/badge/%2F-black?style=for-the-badge"></td></tr>
     <tr><td>🚧</td><td>lem-ipc</td><td><img alt="Grade" src="https://img.shields.io/badge/%2F-black?style=for-the-badge"></td></tr>
     <tr><td>✅</td><td>malloc</td><td><img alt="Grade" src="https://img.shields.io/badge/123-green?style=for-the-badge"></td></tr>
