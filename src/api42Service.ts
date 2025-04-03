@@ -86,7 +86,9 @@ export class api42Service {
 				return false;
 			return true;
 		} catch (error) {
-			throw error;
+            if (error.response.status === 403)
+                return false;
+            throw error;
 		}
 	}
 }
